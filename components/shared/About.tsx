@@ -14,7 +14,9 @@ const techLogos = [
 
 export default function About() {
   return (
-    <AnimatedSection className="mt-4" id="about">
+     <section id="about" className="scroll-mt-24">
+
+       <AnimatedSection className="mt-4" >
       {/* Changed to lg:grid-cols-2 to spread out the content perfectly */}
       <div className="grid grid-cols-1 lg:grid-cols-2 gap-6 lg:gap-8">
         
@@ -137,5 +139,8 @@ export default function About() {
         <InfiniteMovingCards items={techLogos} direction="right" speed="slow" />
       </div>
     </AnimatedSection>
+
+     </section>
+   
   );
 }
