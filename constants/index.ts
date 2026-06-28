@@ -231,33 +231,33 @@ export const faqItems = [
   },
 ];
 
-// export const workHistory = [
-//     {
-//       period: 'Since 2022',
-//       title: 'Now',
-//       role: 'Senior Product Designer',
-//       description:
-//         'I work as a senior product designer for you with an experience of 10+ years. Believe me! You will get the best service with unique designs.',
-//     },
-//     {
-//       period: '2019/20',
-//       title: '2019/20',
-//       role: 'Senior UX Designer',
-//       description:
-//         'I led design strategy, create intuitive interfaces, conduct user research, and collaborate cross-functionally to deliver innovative design for you.',
-//     },
-//     {
-//       period: '2012/15',
-//       title: '2012/15',
-//       role: 'UI Engineer',
-//       description:
-//         'I developed responsive, high-quality user interfaces, and collaborate with designers to create visually appealing and functional web applications',
-//     },
-//     {
-//       period: '2012/13',
-//       title: '2012/13',
-//       role: 'Junior Product Designer',
-//       description:
-//         'I assisted in concept creation, and design iterations. I collaborated with teams to craft engaging and user-friendly product experiences.',
-//     },
-//   ];
+export const workHistory = [
+    {
+      period: 'Since 2022',
+      title: 'Now',
+      role: 'Senior Product Designer',
+      description:
+        'I work as a senior product designer for you with an experience of 10+ years. Believe me! You will get the best service with unique designs.',
+    },
+    {
+      period: '2019/20',
+      title: '2019/20',
+      role: 'Senior UX Designer',
+      description:
+        'I led design strategy, create intuitive interfaces, conduct user research, and collaborate cross-functionally to deliver innovative design for you.',
+    },
+    {
+      period: '2012/15',
+      title: '2012/15',
+      role: 'UI Engineer',
+      description:
+        'I developed responsive, high-quality user interfaces, and collaborate with designers to create visually appealing and functional web applications',
+    },
+    {
+      period: '2012/13',
+      title: '2012/13',
+      role: 'Junior Product Designer',
+      description:
+        'I assisted in concept creation, and design iterations. I collaborated with teams to craft engaging and user-friendly product experiences.',
+    },
+  ];
